@@ -57,12 +57,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -87,26 +81,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=isamirandadev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=isamirandadev&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
